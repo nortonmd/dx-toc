@@ -19,3 +19,5 @@ Other very fine repos on this topic
 * [Modular Development Part 1](https://developer.salesforce.com/blogs/2018/06/working-with-modular-development-and-unlocked-packages-part-1.html) Zayne Turner's guide to adopting Packages
 * [DX for DevOps](https://www.mphasis.com/content/dam/mphasis-com/global/en/home/our-approach/service-transformation/dev-ops/SFDX-with-DevOps-Whitepaper.pdf) Salesforce DX with DevOps for Faster Development
 * [Modern Javascript](https://trailhead.salesforce.com/en/content/learn/modules/modern-javascript-development?trail_id=learn-to-work-with-javascript) Mind Blowing Trailhead Module on JavaScript
+* [Code Climate Blogs](https://codeclimate.com/blog/) Great advice on Code Reviews and Agile Development
+* [Atlassian Blogs](https://www.atlassian.com/blog) More great advice on all things Development
