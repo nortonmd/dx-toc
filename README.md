@@ -13,6 +13,7 @@ Table of Contents for my DX Related Repos
 Other very fine repos on this topic
 
 * [Shane's Awesome SFDX Plugin](https://github.com/mshanemc/awesome-sfdx-plugins) The name says it all
+* [Developer License](https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/rn_sfdx_dev_hub.htm) Limited Access License - Free
 * [LWC Reference Guide](https://developer.salesforce.com/docs/component-library/documentation/lwc) Refernce, Console, Playground
 * [Sample Gallery](https://trailhead.salesforce.com/sample-gallery#) LWC Samples on Trailhead
 * [Metadata Coverage](https://developer.salesforce.com/docs/metadata-coverage/47) What's coverd by MD and Source API
